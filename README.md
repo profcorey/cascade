@@ -5,4 +5,12 @@ The initial goal is to provide the development of virtual contact centers for sm
 
 Cascade will address the need to cost effectively host contact centers. Features will include Chat, APIs, etc. 
 The only limits are available and provisioned hardware.
-Customer engagement is a high priority for delivering quality customer experiences by using cascade. Data metrics will be logged and analyzed for ensuring auditing and reporting 
+Customer engagement is a high priority for delivering quality customer experiences by using cascade. Data metrics will be logged and analyzed for ensuring auditing and reporting.
+
+Use Cases
+
+1. Startup Company
+
+2. Small Nonprofit Organization 
+
+3. Medium Company
