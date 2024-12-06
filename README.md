@@ -14,3 +14,12 @@ Use Cases
 2. Small Nonprofit Organization 
 
 3. Medium Company
+
+Features
+
+1. Chat
+
+2. APIs
+
+3. UI
+
