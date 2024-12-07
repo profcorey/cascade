@@ -27,6 +27,8 @@ Features
 
 6. Artificial Intelligence (AI)
 
+7. Email 
+
 
 
 
