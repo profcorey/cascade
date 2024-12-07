@@ -7,6 +7,26 @@ Cascade will address the need to cost effectively host virtual contact centers. 
 The only limits are available and provisioned hardware.
 Customer engagement is a high priority for delivering quality customer experiences by using cascade. Data metrics will be provided as logged and analyzed data  for ensuring auditing and reporting.
 
+
+Features
+
+1. Chat
+
+2. APIs
+
+3. UI Dashboard
+
+4. Text to Speech (TTS)
+
+5. Natural Language Processing (NLP)
+
+6. Artificial Intelligence (AI)
+
+
+
+
+
+
 Use Cases
 
 1. Startup Company
@@ -15,11 +35,4 @@ Use Cases
 
 3. Medium Company
 
-Features
-
-1. Chat
-
-2. APIs
-
-3. UI
 
