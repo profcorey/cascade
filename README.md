@@ -1,6 +1,6 @@
 # Cascade
 
-Cascade is an open source project for designing, deploying, and administering virtual contact centers and internetal communications using OpenStack infrastructure. The project addresses both Contact Center as a Service (CCaaS) and Unified Communications as a Service (UCaaS) models.
+Cascade is an open source project for designing, deploying, and administering virtual contact centers and internal communications using OpenStack infrastructure. The project addresses both Contact Center as a Service (CCaaS) and Unified Communications as a Service (UCaaS) models.
 The initial goal is to provide the development of omnichannel contact centers and unified communications for small to medium organizations using open source.
 
 Cascade will address the need to cost effectively host virtual contact centers. Features will include Chat, APIs, Messaging, Auditing, Monitoring, Data Analytics etc. 
