@@ -64,47 +64,37 @@ The project participates in any goals specified by the TC, as defined by OpenSta
 The project meets any policies that the TC requires all projects to meet. For instance, the Project Testing Interface.
 
 
-
-
-
-
-
-
-
-
 Architecture
 
-
+to be added
 
 Data
 
 Features
 
-1. Chat
+1. SMS
 
 2. APIs
 
 3. UI Dashboard
 
-4. Text to Speech (TTS)
+4. Phone Branch Exchange (PBX)
 
-5. Natural Language Processing (NLP)
+5. Instant Messaging (IM)
 
-6. Artificial Intelligence (AI)
+6. Video Calling
 
-7. Email 
+7. Email
 
-
-
-
+8. Customer Relationship Management (CRM)
 
 
-Use Cases
+Target Markets/Initial Users
 
 1. Startup Companies
 
-2. Small Nonprofit Organization 
+2. Small Nonprofit Organizations 
 
-3. Medium Company
+3. Medium Sized Companies
 
 
