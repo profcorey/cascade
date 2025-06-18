@@ -23,7 +23,7 @@ The project aligns with the OpenStack Mission:
 
 6. Will provide integration to enable adjacent systems to interoperate with OpenStack.
 
-The project will follow the OpenStack way (“the 4 opens”):
+### The project will follow the OpenStack way (“the 4 opens”):
 
 ## Open Source
 
