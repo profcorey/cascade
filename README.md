@@ -101,4 +101,10 @@ The leadership is chosen by the contributors to the project:
 
 3. Medium Sized Companies
 
+## Similar Propietary Products
 
+1. Amazon Connect https://aws.amazon.com/connect/
+
+2. Google Cloud: https://cloud.google.com/solutions/contact-center-ai-platform?hl=en
+
+3. Cisco Webex: https://www.webex.com/
