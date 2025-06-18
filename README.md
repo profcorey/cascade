@@ -35,9 +35,11 @@ The project aligns with the OpenStack Mission:
 
 The leadership is chosen by the contributors to the project:
 
-1. If the project has meetings, regular or otherwise, they should be public and in IRC. They should all be logged and published. Project teams have discretion as to where meetings are held. They can be in the project specific IRC channel, if it exists or one of the general meeting channels available. The advantage of hosting meetings in the project specific channel is that project participants not present can catch-up more easily. Whereas holding the meeting in a general channel gives extra visibility and makes it easier to ping other contributors.
+1. Project meetings will take place in public and in IRC, #openstack-meeting-alt. They will be logged and published.
 
-2. The project shall provide a level and open collaboration playing field for all contributors. The project shall not benefit a single vendor, or a single vendors product offerings; nor advantage contributors from a single vendor organization due to access to source code, hardware, resources or other proprietary technology available only to those contributors.
+2. The project shall provide a level and open collaboration playing field for all contributors.
+   
+3. The project shall not benefit a single vendor, or a single vendors product offerings; nor advantage contributors from a single vendor organization due to access to source code, hardware, resources or other proprietary technology available only to those contributors.
 
 ## Open Development
 
