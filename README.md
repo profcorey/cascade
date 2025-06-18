@@ -51,7 +51,7 @@ The leadership is chosen by the contributors to the project:
 
 4. The project cooperates with existing projects rather than gratuitously competing or reinventing the wheel
 
-5. he project adopts technology and patterns used by existing OpenStack projects
+5. The project adopts technology and patterns used by existing OpenStack projects
 
 ## Open Design
 
