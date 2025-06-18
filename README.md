@@ -65,14 +65,11 @@ The leadership is chosen by the contributors to the project:
 
 6. The project meets any policies that the TC requires all projects to meet (ie. Project Testing Interface).
 
+## Architecture
 
-Architecture
+1. Diagram to be added
 
-1. to be added
-
-Data
-
-Features
+## Immediate and Future Features
 
 1. All-in-1
 
@@ -94,7 +91,7 @@ Features
 
 10. Security
 
-Target Markets/Initial Users
+## Target Markets/Initial Users
 
 1. Startup Companies
 
