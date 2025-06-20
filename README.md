@@ -97,9 +97,9 @@ The leadership is chosen by the contributors to the project:
 
 1. Startup Companies
 
-2. Small Nonprofit Organizations 
+2. Nonprofit Organizations 
 
-3. Medium Sized Companies
+3. Small and Medium Companies (SMB)
 
 ## Similar CCaaS Products
 
