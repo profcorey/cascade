@@ -1,7 +1,11 @@
 (2:00:50 PM) profcorey: It's the top of the hour. Anyone interested in Project Cascade please feel free to join in this discussion.
+
 (2:01:36 PM) profcorey: Project Cascade is not an official OpenStack. However, the goal is to present it to the TC at the next NA event for accepting as an official project.
+
 (2:02:07 PM) profcorey: We have created a project charter to kickoff the project: https://github.com/profcorey/cascade/blob/main/README.md
+
 (2:02:45 PM) profcorey: I'll allow time for anyone to review and make any comments if any...
+
 (2:03:47 PM) profcorey: As you can see, the project charter follows the 4 opens per the foundation's reqs.
 (2:06:04 PM) profcorey: Under Project Mission, line 5 there's a typo at the end, I'll fix that.
 (2:06:55 PM) profcorey: We've adopted the Apache v2.0 license for licensing purposes.
