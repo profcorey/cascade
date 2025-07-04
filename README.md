@@ -67,13 +67,18 @@ The leadership is chosen by the contributors to the project:
 
 6. The project meets any policies that the TC requires all projects to meet (ie. Project Testing Interface).
 
-## Architecture
+## Generic OpenStack Architecture
 
-1. ![OpenStack Generic Architecture](images/generic_openstack_architecture.png)
+![OpenStack Generic Architecture](images/generic_openstack_architecture.png)
+
+## Cascade Cloud Architecture
+
+![Cascade Cloud Architecture](images/cascade_cloud_architecture.png)
+
 
 ## Immediate and Future Features
 
-1. All-in-1
+1. All-in-1 Deployment
 
 2. APIs
 
