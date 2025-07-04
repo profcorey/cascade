@@ -69,7 +69,7 @@ The leadership is chosen by the contributors to the project:
 
 ## Architecture
 
-1. Diagram to be added
+1. (images/generic_openstack_architecture.png)
 
 ## Immediate and Future Features
 
