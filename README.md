@@ -75,11 +75,11 @@ The leadership is chosen by the contributors to the project:
 
 ![Cascade Cloud Architecture](images/cascade_cloud_architecture.png)
 
-## Generic VirtualBox Architecture
+## Cascade VirtualBox Architecture
 
 ![Cascade VirtualBox Architecture](images/cascade_virtualbox_architecture.png)
 
-## Cascade Cloud Architecture
+## Cascade Bare Metal Architecture
 
 ![Cascade Bare Metal Architecture](images/cascade_baremetal_architecture.png)
 
