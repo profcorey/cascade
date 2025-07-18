@@ -85,13 +85,15 @@ The leadership is chosen by the contributors to the project:
 
 ## Services to be added
 
-1. Asterisk
+1. Asterisk: VoiP, PBX
 
-2. freePBX
+2. freePBX: PBX Dashboard
 
-3. Jitsi Meet
+3. Jitsi: Video Calling and Online Meetings
 
-4. Mastodon
+4. Mastodon: Social Media
+
+5. SuiteCRM: Customer Relationship Management
 
 ## Immediate and Future Features
 
