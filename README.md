@@ -83,7 +83,15 @@ The leadership is chosen by the contributors to the project:
 
 ![Cascade Bare Metal Architecture](images/cascade_baremetal_architecture.png)
 
+## Services to be added
 
+1. Asterisk
+
+2. freePBX
+
+3. Jitsi Meet
+
+4. Mastodon
 
 ## Immediate and Future Features
 
