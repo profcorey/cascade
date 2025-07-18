@@ -99,6 +99,8 @@ The leadership is chosen by the contributors to the project:
 
 7. Open Source AI Agent
 
+8. Jabber: Instant Messaging
+
 ## Immediate and Future Features
 
 1. All-in-1 Deployment
