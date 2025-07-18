@@ -95,6 +95,10 @@ The leadership is chosen by the contributors to the project:
 
 5. SuiteCRM: Customer Relationship Management
 
+6. Firefox Browser: Web browsing
+
+7. Open Source AI Agent
+
 ## Immediate and Future Features
 
 1. All-in-1 Deployment
