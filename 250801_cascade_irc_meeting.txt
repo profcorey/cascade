@@ -1,0 +1,42 @@
+(01:00:59 PM) profcorey: Ok starting another short meeting for the new project, Cascade
+(01:01:53 PM) profcorey: Earlier today I pushed changes to add cascade as a New Project
+(01:02:26 PM) andrewbonney left the room (quit: ).
+(01:02:43 PM) profcorey: It's using x/cascade as its namespace since the project is not yet an official openstack project
+(01:04:49 PM) profcorey: I did receive a build failed so I will fix this hopefully today
+(01:08:14 PM) profcorey: I will chase down the cause of the build fail and have a status update next meeting, thanks!
+(01:33:05 PM) profcorey: Hi
+(01:33:29 PM) azlan: Hi sir 
+(01:33:48 PM) azlan: i am really sorry as i was just too much busy in my code that it went out of my mind 
+(01:34:11 PM) azlan: sir i have prepared some documents regarding the previous task you asked me to do 
+(01:35:24 PM) profcorey: OK no problem!
+(01:36:01 PM) profcorey: Help me, what were the previous tasks again?
+(01:36:01 PM) azlan: so sir can you assign me any tasks because i really feel that i am sitting idle and you are working alone 
+(01:36:14 PM) azlan: it will help me a lot 
+(01:36:38 PM) profcorey: So, I pushed the initial patchset to create the repo for cascade, but ran into 3 issues.
+(01:37:04 PM) profcorey: I can fix these as soon as were finished with these and then we should have a repo to start working together
+(01:37:13 PM) azlan: yes sir can we discuss those 
+(01:38:05 PM) azlan: yes sir sure so will those be covered in this week and our next meeting will be on project working 
+(01:38:06 PM) profcorey: What did you want to share?
+(01:38:28 PM) azlan: sir i did research on aestrik as you told me 
+(01:38:39 PM) profcorey: Ok what did you find out?
+(01:39:50 PM) azlan: I went through its architecture, stable versions, and how it integrates using AMI. I can also start mapping out how we’d connect it to our backend as part of the task you mentioned.
+(01:40:17 PM) profcorey: Nice, what is AMI?
+(01:41:09 PM) azlan: its Asterisk Manager Interface.
+(01:41:48 PM) azlan: Its a TCP-based API that lets external programs monitor, control, and interact with Asterisk phone calls in real time.
+(01:42:10 PM) profcorey: Great! that's super resesarch!
+(01:42:29 PM) profcorey: A architectural diagram would be great
+(01:42:34 PM) profcorey: An
+(01:44:18 PM) azlan: yes sir so i will make it as my practice and will share as mail with you
+(01:45:00 PM) profcorey: Great! Anything else?
+(01:45:40 PM) azlan: no sir and really sorry for todays delay again as i have missed three meetings
+(01:47:25 PM) profcorey: No worries at all! We are all busy and we're just starting up!
+(01:48:07 PM) profcorey: So, we'll meet in 2 weeks again. We'll definitely have a repo to use to collaborate with coding.
+(01:48:31 PM) profcorey: I'll add these notes to the other notes as well.
+(01:48:35 PM) azlan: sure sir 
+(01:48:47 PM) profcorey: Thanks Muhammad!
+(01:49:04 PM) azlan: thanks sir 
+(01:49:11 PM) profcorey: And I still need to send your shirt to you. I should be on campus in a couple of weeks to send.
+(01:49:22 PM) profcorey: Have a great weekend!
+(01:49:56 PM) azlan: yes sir i will be waiting 
+(01:50:40 PM) azlan: sir can we share a doc here as i had a basic architecture diagram but i will have a detailed one
+(01:52:09 PM) azlan: You too — enjoy your weekend sir!
