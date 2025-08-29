@@ -144,3 +144,7 @@ The leadership is chosen by the contributors to the project:
 10. NICE https://www.nice.com/
 11. RingCentral: https://www.ringcentral.com/
 12. Twilio: https://www.twilio.com/
+    
+
+## Etherpad Meetings
+https://etherpad.opendev.org/p/projectcascade-250829meeting
