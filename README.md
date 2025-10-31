@@ -127,7 +127,7 @@ The leadership is chosen by the contributors to the project:
 
 10. Security
 
-## Target Markets/Initial Users
+## Target Markets/Initial Adopters
 
 1. Startup Companies
 
@@ -151,8 +151,8 @@ The leadership is chosen by the contributors to the project:
     
 
 ## Etherpad Meetings
-https://etherpad.opendev.org/p/250815-cascade-meeting
-https://etherpad.opendev.org/p/projectcascade-250829meeting
-https://etherpad.opendev.org/p/projectcascade-250912meeting
-https://etherpad.opendev.org/p/projectcascade-250926-meetingnotes
-https://etherpad.opendev.org/p/oct2025-ptg-cascade
+* https://etherpad.opendev.org/p/250815-cascade-meeting
+* https://etherpad.opendev.org/p/projectcascade-250829meeting
+* https://etherpad.opendev.org/p/projectcascade-250912meeting
+* https://etherpad.opendev.org/p/projectcascade-250926-meetingnotes
+* https://etherpad.opendev.org/p/oct2025-ptg-cascade
