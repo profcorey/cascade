@@ -41,6 +41,8 @@ The leadership is chosen by the contributors to the project:
    
 3. The project shall not benefit a single vendor, or a single vendors product offerings; nor advantage contributors from a single vendor organization due to access to source code, hardware, resources or other proprietary technology available only to those contributors.
 
+4. The project publicly participated in the Fall of 2026 PTG https://ptg.opendev.org/ptg.html.
+
 ## Open Development
 
 1. The project will use public code reviews on the OpenStack infrastructure
@@ -83,23 +85,25 @@ The leadership is chosen by the contributors to the project:
 
 ![Cascade Bare Metal Architecture](images/cascade_baremetal_architecture.png)
 
-## Services to be added
+## Initial Sub-projects to be researched and integrated
 
-1. Asterisk: VoiP, PBX
+1. VoiP, PBX: Ex. Asterisk 
 
-2. freePBX: PBX Dashboard
+2. PBX Dashboard: Ex. freePBX: 
 
-3. Jitsi: Video Calling and Online Meetings
+## Possible sub-projects
 
-4. Mastodon: Social Media
+4. Video Calling and Online Meetings Ex. Jitsi 
 
-5. SuiteCRM: Customer Relationship Management
+5. Social Media: Ex. Mastodon
 
-6. Firefox Browser: Web browsing
+6. Customer Relationship Management: Ex. SuiteCRM
 
-7. Open Source AI Agent
+7. Web browsing: Ex. Ex. Firefox Browser 
 
-8. Jabber: Instant Messaging
+8. Open Source AI Agents Ex. Klaire
+
+9. Instant Messaging: Ex. Jabber
 
 ## Immediate and Future Features
 
@@ -131,7 +135,7 @@ The leadership is chosen by the contributors to the project:
 
 3. Small and Medium Companies (SMB)
 
-## Similar CCaaS Products
+## Proprietary CCaaS Products to be researched
 
 1. Amazon Connect https://aws.amazon.com/connect/
 2. Cisco Webex: https://www.webex.com/
